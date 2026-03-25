@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\public\\myapps\\CalculatorEngine\\CalculatorEngine.csproj": {}
+    "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\public\\myapps\\CalculatorEngine\\CalculatorEngine.csproj": {
+    "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\public\\myapps\\CalculatorEngine\\CalculatorEngine.csproj",
+        "projectUniqueName": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj",
         "projectName": "CalculatorEngine",
-        "projectPath": "C:\\Users\\public\\myapps\\CalculatorEngine\\CalculatorEngine.csproj",
+        "projectPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj",
         "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\public\\myapps\\CalculatorEngine\\obj\\",
+        "outputPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config"

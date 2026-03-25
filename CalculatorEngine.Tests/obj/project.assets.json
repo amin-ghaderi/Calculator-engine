@@ -919,11 +919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\public\\myapps\\CalculatorEngine.Tests\\CalculatorEngine.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine.Tests\\CalculatorEngine.Tests.csproj",
       "projectName": "CalculatorEngine.Tests",
-      "projectPath": "C:\\Users\\public\\myapps\\CalculatorEngine.Tests\\CalculatorEngine.Tests.csproj",
+      "projectPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine.Tests\\CalculatorEngine.Tests.csproj",
       "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\public\\myapps\\CalculatorEngine.Tests\\obj\\",
+      "outputPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config"
