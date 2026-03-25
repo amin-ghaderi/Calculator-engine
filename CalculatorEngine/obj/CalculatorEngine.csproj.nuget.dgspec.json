@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj": {}
+    "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\calculatorengine\\CalculatorEngine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj": {
+    "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\calculatorengine\\CalculatorEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj",
+        "projectUniqueName": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\calculatorengine\\CalculatorEngine.csproj",
         "projectName": "CalculatorEngine",
-        "projectPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj",
+        "projectPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\calculatorengine\\CalculatorEngine.csproj",
         "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\obj\\",
+        "outputPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\calculatorengine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config"
