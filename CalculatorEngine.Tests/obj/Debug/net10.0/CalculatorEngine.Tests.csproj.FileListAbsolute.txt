@@ -95,3 +95,10 @@ C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\obj\Debug
 C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\obj\Debug\net10.0\CalculatorEngine.Tests.pdb
 C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\obj\Debug\net10.0\CalculatorEngine.Tests.genruntimeconfig.cache
 C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\obj\Debug\net10.0\ref\CalculatorEngine.Tests.dll
+C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_CalculatorEngine.Tests
+C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_CalculatorEngine.Tests
+C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\bin\Debug\net10.0\CalculatorEngine.deps.json
+C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\bin\Debug\net10.0\CalculatorEngine.runtimeconfig.json
+C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\bin\Debug\net10.0\CalculatorEngine.exe
+C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\bin\Debug\net10.0\CalculatorEngine.dll
+C:\Users\public\myapps\CalculatorEngineSolution\CalculatorEngine.Tests\bin\Debug\net10.0\CalculatorEngine.pdb
