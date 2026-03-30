@@ -6,12 +6,13 @@ namespace CalculatorEngine
 {
     /// <summary>
     /// Entry point of the calculator application with chain calculation and history.
+    /// Uses ICalculator abstraction for loose coupling.
     /// </summary>
     internal class Program
     {
         static void Main(string[] args)
         {
-            Calculator calculator = new Calculator();
+            ICalculator calculator = new Calculator();
             bool isRunning = true;
 
             List<string> history = new List<string>();
@@ -65,9 +66,9 @@ namespace CalculatorEngine
         }
 
         /// <summary>
-        /// Handles chain calculation mode.
+        /// Handles chain calculation mode using ICalculator abstraction.
         /// </summary>
-        static void StartCalculation(Calculator calculator, List<string> history)
+        static void StartCalculation(ICalculator calculator, List<string> history)
         {
             double result = ReadNumber("Enter first number: ");
 
@@ -130,7 +131,7 @@ namespace CalculatorEngine
         }
 
         /// <summary>
-        /// Displays history.
+        /// Displays calculation history.
         /// </summary>
         static void ShowHistory(List<string> history)
         {
@@ -149,7 +150,7 @@ namespace CalculatorEngine
         }
 
         /// <summary>
-        /// Reads valid double input.
+        /// Reads and validates numeric input from the user.
         /// </summary>
         static double ReadNumber(string message)
         {
@@ -168,7 +169,7 @@ namespace CalculatorEngine
         }
 
         /// <summary>
-        /// Displays error in red.
+        /// Displays error messages in red color.
         /// </summary>
         static void WriteError(string message)
         {
@@ -178,7 +179,7 @@ namespace CalculatorEngine
         }
 
         /// <summary>
-        /// Pause between actions.
+        /// Pauses the application until a key is pressed.
         /// </summary>
         static void Pause()
         {
