@@ -1,2 +1,3 @@
 <Solution>
+  <Project Path="CalculatorEngine.OperationsRunner/CalculatorEngine.OperationsRunner.csproj" />
 </Solution>
