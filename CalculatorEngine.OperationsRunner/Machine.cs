@@ -14,3 +14,4 @@ public class Machine
         return "Manager needs to approve";
     }
 }
+
