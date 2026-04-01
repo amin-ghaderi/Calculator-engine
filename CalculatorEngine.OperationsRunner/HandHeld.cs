@@ -8,9 +8,14 @@ public class HandHeld : Machine
         Weight = weight;
     }
 
-    public new string BookService()
+    public override string BookService()
     {
         return "Service booked";
+    }
+
+    public override string Operate()
+    {
+        return "HandHeld machine is operating with battery mode.";
     }
 }
 

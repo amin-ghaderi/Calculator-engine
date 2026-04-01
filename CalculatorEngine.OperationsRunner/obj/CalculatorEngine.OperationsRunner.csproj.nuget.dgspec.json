@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\CalculatorEngine.OperationsRunner.csproj": {}
+    "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\CalculatorEngine.OperationsRunner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\CalculatorEngine.OperationsRunner.csproj": {
+    "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\CalculatorEngine.OperationsRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\CalculatorEngine.OperationsRunner.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\CalculatorEngine.OperationsRunner.csproj",
         "projectName": "CalculatorEngine.OperationsRunner",
-        "projectPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\CalculatorEngine.OperationsRunner.csproj",
+        "projectPath": "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\CalculatorEngine.OperationsRunner.csproj",
         "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine.OperationsRunner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj": {
-                "projectPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj"
+              "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj": {
+                "projectPath": "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj"
               }
             }
           }
@@ -341,14 +341,14 @@
         }
       }
     },
-    "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj": {
+    "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj",
         "projectName": "CalculatorEngine",
-        "projectPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj",
+        "projectPath": "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine\\CalculatorEngine.csproj",
         "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\public\\myapps\\CalculatorEngineSolution\\CalculatorEngine\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Myapps\\CalculatorEngineSolution\\CalculatorEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config"

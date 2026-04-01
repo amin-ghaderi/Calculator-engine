@@ -9,9 +9,14 @@ public class Machine
         Effect = effect;
     }
 
-    public string BookService()
+    public virtual string BookService()
     {
         return "Manager needs to approve";
+    }
+
+    public virtual string Operate()
+    {
+        return "Machine is operating.";
     }
 }
 
